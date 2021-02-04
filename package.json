@@ -1,0 +1,24 @@
+{
+  "name": "hyper-overnight-slumber",
+  "version": "1.0.0",
+  "description": "Overnight theme for hyperterm",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "jerolan/hyper-overnight-slumber",
+  "author": {
+    "name": "Jerome Olvera"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "dark",
+    "hyper-theme",
+    "hyper",
+    "hyperterm",
+    "night owl",
+    "overreacted",
+    "terminal",
+    "theme"
+  ]
+}
